@@ -1,3 +1,6 @@
 [submodule "ESP_Firmware"]
 	path = ESP_Firmware
 	url = https://github.com/PedroLoeps/ESP_Firmware.git
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/PedroLoeps/BackEnd

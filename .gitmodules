@@ -4,3 +4,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/PedroLoeps/BackEnd
+[submodule "AndroidApp"]
+	path = AndroidApp
+	url = https://github.com/PedroLoeps/AndroidApp
